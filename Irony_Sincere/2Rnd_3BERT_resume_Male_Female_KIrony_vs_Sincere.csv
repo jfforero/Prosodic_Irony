@@ -1,0 +1,15 @@
+Gender,Feature,Mean ± Stdv (Sincere),Mean ± Stdv (Kind Irony),Test,Statistic,P-value,Significant
+Female,meanF0Hz,274.93 ± 45.84,239.64 ± 39.41,Student t-test,-3.413742239988649,0.0010995495270643449,True
+Female,stdevF0Hz,67.70 ± 16.50,65.07 ± 19.37,Student t-test,-0.5956940500301622,0.5534169848518924,False
+Female,HNR,9.43 ± 1.93,10.66 ± 1.79,Student t-test,2.7291945061232847,0.00813014209559008,True
+Female,IntensityAvg,69.29 ± 9.53,61.11 ± 8.18,Student t-test,-3.809569446589785,0.0003080314084977396,True
+Female,SpeechRate,3.34 ± 0.95,3.66 ± 0.67,Mann-Whitney U-test,676.0,0.20912131657480293,False
+Female,ArticulationRate,4.41 ± 1.01,4.45 ± 0.68,Student t-test,0.1609358321967247,0.8726355450527605,False
+Female,AvgSyllableDuration,0.24 ± 0.07,0.23 ± 0.04,Mann-Whitney U-test,575.0,0.990175432171065,False
+Male,meanF0Hz,190.18 ± 48.74,146.02 ± 58.50,Mann-Whitney U-test,61.0,0.0060156378745918,True
+Male,stdevF0Hz,54.32 ± 26.01,55.17 ± 45.48,Mann-Whitney U-test,112.0,0.33589915908793233,False
+Male,HNR,8.92 ± 2.23,8.62 ± 2.66,Student t-test,-0.3604848819684929,0.7208532717706769,False
+Male,IntensityAvg,68.40 ± 9.12,57.68 ± 6.82,Student t-test,-3.7236689875745896,0.0007560067139530169,True
+Male,SpeechRate,3.38 ± 1.19,3.02 ± 0.83,Student t-test,-0.9602579629841933,0.34412538046796204,False
+Male,ArticulationRate,4.28 ± 1.18,3.98 ± 0.83,Student t-test,-0.8229598042848056,0.4166217463755866,False
+Male,AvgSyllableDuration,0.27 ± 0.14,0.26 ± 0.06,Mann-Whitney U-test,177.0,0.20151966887832418,False
