@@ -10,7 +10,7 @@ You can explore the code project in the following Jupyter Notebook viewer:
 
 👉 [View Notebook for sarcasm vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Sarcasm/CODE_PRAAT_SARCASM_VS_SINCERE.ipynb)
 
-👉 [View Notebook for kind-Irony vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Kind-Irony/CODE_PRAAT_KIND-IRONY_VS_SINCERE.ipynb)
+👉 [View Notebook for kind-Irony vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Kind-Irony/CODE_KindIrony_vs_Sincere_Praat_IEMOCAP.ipynb)
 
 ## Irony Flow
 
