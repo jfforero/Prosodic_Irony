@@ -12,25 +12,11 @@ You can explore the code project in the following Jupyter Notebook viewer:
 
 👉 [View Notebook for kind-Irony vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Kind-Irony/CODE_KindIrony_vs_Sincere_Praat_IEMOCAP.ipynb)
 
-## Irony Flow
+## Irony Analysis Flow
 
 ![Irony Flow](https://github.com/user-attachments/assets/7f5f60df-4778-4d8c-89fe-409757d71d03)
 
-## Repository Structure
 
-- `notebooks/` - Jupyter Notebooks with experiments and analysis.
-- `data/` - Processed datasets used for training and evaluation.
-- `models/` - Pretrained and fine-tuned models.
-- `results/` - Outputs and findings from different experiments.
-- `scripts/` - Utility scripts for data preprocessing and model training.
-
-## Requirements
-
-To run the code, install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Citation
 
