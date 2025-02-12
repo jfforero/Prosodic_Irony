@@ -8,7 +8,7 @@ You can explore the code project in the following Jupyter Notebook viewer:
 
 👉 [View Notebook for BERT fine-tuning with DYNASENT two rounds datasets](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/CODE_3BERT_2DYNAROUNDS_IEMOCAP.ipynb)
 
-👉 [View Notebook for sarcasm vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/CODE_3BERT_2DYNAROUNDS_IEMOCAP.ipynb)
+👉 [View Notebook for sarcasm vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Sarcasm/CODE_PRAAT_SARCASM_VS_SINCERE.ipynb)
 
 👉 [View Notebook for kind-Irony vs sincere speech analysis](https://nbviewer.org/github/jfforero/Prosodic_Irony/blob/main/Kind-Irony/CODE_PRAAT_KIND-IRONY_VS_SINCERE.ipynb)
 
